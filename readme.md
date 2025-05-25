@@ -35,7 +35,7 @@ npm install
 ### 3. Usage
 
 ```bash
-node main.js <path_to_first_image> <path_to_second_image>
+node compareBetweenTwo.js <path_to_first_image> <path_to_second_image>
 ```
 
 # Reference
